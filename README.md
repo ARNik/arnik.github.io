@@ -1,15 +1,14 @@
 # arnik.github.io
 Github pages test.
 
-https://arnik.github.io/
-https://arnik.github.io/cheatsheet/index.html
-https://getbootstrap.com/docs/5.2/examples/
+https://arnik.github.io/  
+https://getbootstrap.com/docs/5.2/examples/  
 
 
 
 
 
-Bootstrap Examples list:
+Bootstrap Examples list:  
 https://arnik.github.io/bootstrap-5.2.2-examples/album/index.html  
 https://arnik.github.io/bootstrap-5.2.2-examples/album-rtl/index.html  
 https://arnik.github.io/bootstrap-5.2.2-examples/blog/index.html  
@@ -46,6 +45,3 @@ https://arnik.github.io/bootstrap-5.2.2-examples/sticky-footer-navbar/index.html
 
 
 
-
-
-https://arnik.github.io/bootstrap-5.2.2-examples/cheatsheet/index.html
