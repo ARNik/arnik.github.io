@@ -2,13 +2,13 @@
 Github pages test.
 
 https://arnik.github.io/  
-https://getbootstrap.com/docs/5.2/examples/  
+
+[Bootstrap 5.2 examples](https://getbootstrap.com/docs/5.2/examples)  
+[Bootstrap 5.2 documentation](https://getbootstrap.com/docs/5.2)  
 
 
 
-
-
-<details><summary><strong>Bootstrap Examples list:</strong></summary><blockquote>
+<details><summary><strong>Bootstrap Examples list (selfhosted):</strong></summary><blockquote>
 
 [album](https://arnik.github.io/bootstrap-5.2.2-examples/album)  
 [blog](https://arnik.github.io/bootstrap-5.2.2-examples/blog)  
