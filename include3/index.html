@@ -1,0 +1,34 @@
+<html>
+  <head>
+    <script src="jquery-3.6.1.min.js"></script>
+    <script>
+      $(function () {
+        var includes = $('[data-include]')
+        $.each(includes, function () {
+          var file = 'views/' + $(this).data('include') + '.html'
+          $(this).load(file)
+        })
+      })
+    </script>
+  </head>
+
+  <body>
+    
+    
+    <h1>Include test 3</h1>
+    <h3>Works with hosting only!</h3>
+
+    <a href="https://stackoverflow.com/questions/8988855/include-another-html-file-in-a-html-file">Оригинал на Stack Overflow</a>
+    <p></p>
+    <a href="https://arnik.github.io/include3">Пример на хостинге</a>
+    <p></p>
+
+
+    <p>Include content:</p>
+    <div data-include="header"></div>
+    <div data-include="footer"></div>
+  </body>
+</html>
+
+
+
