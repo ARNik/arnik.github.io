@@ -5,7 +5,7 @@
       $(function () {
         var includes = $('[data-include]')
         $.each(includes, function () {
-          var file = 'views/' + $(this).data('include') + '.html'
+          var file = $(this).data('include')
           $(this).load(file)
         })
       })
@@ -25,8 +25,8 @@
 
 
     <p>Include content:</p>
-    <div data-include="header"></div>
-    <div data-include="footer"></div>
+    <div data-include="views/header.html"></div>
+    <div data-include="views/footer.html"></div>
   </body>
 </html>
 
